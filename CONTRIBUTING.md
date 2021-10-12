@@ -2,3 +2,4 @@
 2. Bala Hantsi    (https://github.com/bhantsi5) 
 3. Shreya         (https://github.com/24shreya)        
 4. Aditya Lalwani (https://github.com/AdityaLalwani)
+5. Vaibhavraj Nath Chauhan (https://github.com/Vaibhavraj-nath-chauhan)
